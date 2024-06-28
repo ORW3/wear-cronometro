@@ -1,6 +1,6 @@
 # cronometroWear
 
-A new Flutter project.
+![image](https://github.com/ORW3/wear-cronometro/assets/109442031/d4707291-5327-4a13-9cfe-cab5f7ef9f4e)
 
 ## Getting Started
 
